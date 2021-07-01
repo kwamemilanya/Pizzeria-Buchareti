@@ -1,6 +1,6 @@
 # PIZZERIA BUCHARETI
 #### A website for pizzeria buchareti, 2021
-#### By **Lorna Kamau**
+#### By **Kwame Milanya**
 ## Description
 This is a website for pizzeria buchareti, a pizzeria based in Nairobi, Kenya. The page has four buttons in the navigation bar:
 - About Us: allows potential customers to know more about the pizzeria.
