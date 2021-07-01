@@ -2,7 +2,7 @@
     padding: 0;
 }
 #header{
-    background-image: url("./images/oven.jpg");
+    background:url(images/oven.jpg);
     background-position: center center;
     background-repeat: no-repeat;
     background-attachment: fixed;
