@@ -41,4 +41,5 @@ Should you be unable to access my web application, have any recommendations or q
 ## To-do
 1. Track all messages sent in the feedback section
 
-## [ MIT License]
+## License
+MIT License (2021)
