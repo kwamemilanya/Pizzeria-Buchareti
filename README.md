@@ -29,11 +29,9 @@ Here's what you need to do:
 - Enjoy your pizza and be sure to recommend us to your friends and family!
 
 ## Technologies Used
- *HTML 
- *CSS 
- *Bootstrap 
- *jQuery 
- *JavaScript
+* HTML
+* CSS
+* JavaScript
 
 ## Support and contact details
 Should you be unable to access my web application, have any recommendations or questions, feel free to email me; kwamemi@gmail.com.
