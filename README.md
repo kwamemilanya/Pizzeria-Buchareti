@@ -8,16 +8,14 @@ This is a website for pizzeria buchareti, a pizzeria based in Nairobi, Kenya. Th
 - Order: potential customers are able to place an order online by selecting a pizza flavor, size, crust, number of pizzas and any extra toppings of their choice. 
 - Contact Us: this section contains the pizzeria contact details and a feedback section.
 ## Development
-To make advancements/modifications, follow these steps:
+Follow these steps:
+* Open Terminal {Ctrl+Alt+T}
 
-- Fork the repository
-- Create a new branch (`git checkout -b improve-feature`)
-- Make the appropriate changes in the files
-- Add changes made
-- Commit your changes (`git commit -am 'Improve feature'`)
-- Push to the branch (`git push origin improve-feature`)
-- Create a Pull Request 
+* git clone 
 
+* cd Pizzeria-buchreti
+
+* code . or atom . depending on the text editor of your choise.
 ## Ready to order a scrumptious pizza?
 Here's what you need to do:
 - Visit the website at 
