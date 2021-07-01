@@ -69,7 +69,6 @@ li a:hover {
     width: 1rem;
 }
 .carousel-multi-item .carousel-indicators .active{
-   /* style active carousel indicator*/
     background-color: #FE5A07;
     height: 1.25rem;
     width: 1.25rem;
@@ -78,7 +77,6 @@ li a:hover {
     text-align: center;
 }
 .jumbotron{
-   /*styling for both jumbotron elements*/
     border-radius: 20px;
 }
 form{
@@ -88,7 +86,6 @@ form{
     font-family: 'Lato', sans-serif;
 }
 .form-control{
-   /*change color of inputs*/
     color: rgb(17, 17, 17);
 }
 form label{
@@ -102,21 +99,17 @@ select{
     padding: 0;
 }
 h5 {
-   /*styling for all h5 elements*/
     color: #FE5A07 
 }
 .col-md-5{
-   /*align content in all col-md-5*/
     text-align: left;
     padding: 0;
 }
 .form-group small{
-   /*style small text in the form*/
     margin-top: 0 !important;
     margin-bottom: 8px;
 }
 .btn {
-   /* style all buttons */
     color: #fff;
     background-color: #FE5A07 !important;
     border-radius: 9px;
@@ -149,7 +142,6 @@ table .table-sm th{
     text-align: center;
 }
 div.totalPick, div.name, div.location, div.totalDel, div.phone{
-   /*style how the divs display */
     display: inline;
     font-weight: bold;
 }
@@ -159,7 +151,7 @@ div.totalPick, div.name, div.location, div.totalDel, div.phone{
     text-align: center;
     color: white;
     font-family: 'Lato', sans-serif;
-    background-image: url("./images/pizza.jpg");
+    background-image: url("images/pizza.jpg");
     background-size: cover;
 }
 #contactus img{
