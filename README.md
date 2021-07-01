@@ -11,7 +11,7 @@ This is a website for pizzeria buchareti, a pizzeria based in Nairobi, Kenya. Th
 Follow these steps:
 * Open Terminal {Ctrl+Alt+T}
 
-* git clone 
+* git clone https://github.com/kwamemilanya/Pizzeria-Buchareti.git
 
 * cd Pizzeria-buchreti
 
