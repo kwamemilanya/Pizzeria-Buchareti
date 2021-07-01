@@ -27,3 +27,18 @@ Here's what you need to do:
 - If you choose to have your order delivered, a dialog box pops up asking you to provide more details for delivery. After which a confirmation message pops up indicating the total price to be paid on delivery, the delivery location and a phone number with which we shall reach you on
 - If you got this far then your order was successfully placed
 - Enjoy your pizza and be sure to recommend us to your friends and family!
+
+## Technologies Used
+ -HTML 
+ -CSS 
+ -Bootstrap 
+ -jQuery 
+ -JavaScript
+
+## Support and contact details
+Should you be unable to access my web application, have any recommendations or questions, feel free to email me; kwamemi@gmail.com.
+
+## To-do
+1. Track all messages sent in the feedback section
+
+## [ MIT License]
