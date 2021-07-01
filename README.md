@@ -15,7 +15,7 @@ Follow these steps:
 
 * cd Pizzeria-buchreti
 
-* code . or atom . depending on the text editor of your choise.
+* code . or atom . depending on the text editor of your choice.
 ## Ready to order a scrumptious pizza?
 Here's what you need to do:
 - Visit the website at 
